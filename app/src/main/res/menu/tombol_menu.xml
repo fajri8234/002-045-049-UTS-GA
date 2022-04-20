@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Lokasi Saat Ini"
+        android:icon="@drawable/ic_home"
+        android:id="@+id/lsi"/>
+    <item android:title="Pencarian Lokasi"
+        android:icon="@drawable/ic_maps"
+        android:id="@+id/pl"/>
+    <item android:title="Titik Lokasi Sekarang"
+        android:icon="@drawable/ic_pesan"
+        android:id="@+id/tls"/>
+</menu>
